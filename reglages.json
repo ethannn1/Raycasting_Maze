@@ -1,0 +1,8 @@
+{
+    "COTE" : 720,
+    "TAILLE_MAP" : 109,
+    "DEGRADATION" : 20,
+    "RENDER_DIST" : 720,
+    "OMBRES" : true,
+    "DIFF_MOITIE": false
+}
